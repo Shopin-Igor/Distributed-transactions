@@ -68,3 +68,7 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+data/
+data-demo-*/
+run/
